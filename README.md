@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🏫I'm currently learning Web Development and Python
 - 👯 I’m looking to collaborate on anything related to **C++ ,Web Development and Python**
 - 🤔 I’m looking for help with starting this ***Open Source Contribution*** journey
-- 📫 How to reach me: 
+<!-- 📫 How to reach me:--> 
