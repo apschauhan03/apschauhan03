@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello there 👋
 
 <!--
 **apschauhan03/apschauhan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🏫I'm currently learning Web Development and Python
+- 👯 I’m looking to collaborate on anything related to **C++ ,Web Development and Python**
+- 🤔 I’m looking for help with starting this ***Open Source Contribution*** journey
+- 📫 How to reach me: 
